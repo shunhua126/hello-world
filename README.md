@@ -1,2 +1,2 @@
 # hello-world
-Toady I begin to study github
+This is readme-edit branch.I am studying what is a branch.
